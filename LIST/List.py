@@ -16,26 +16,26 @@ names = ['a','b','c','d','e','f']
 print(names)
 
 #assign difference type to one list it will work ex float value and string and int value to assign bellow
-#values = [9.5,'BRAHMA',10]
-#print(values)
+values = [9.5,'BRAHMA',10]
+print(values)
 
 #two lists working together 
- #mixList=[nums,names,values]
- #print(mixList)
+ #mixList = [nums,names,values]
+#print(mixList)
 
 #this example is find value using index value
-#print(nums[4])
+print(nums[4])
 
 #if we want print some thing print between the values 
-#print(nums[3:])
-#print(nums[2:4])
-#print(nums[:5])
-#print(nums[0:2])
+print(nums[3:])
+print(nums[2:4])
+print(nums[:5])
+print(nums[0:2])
 #we can use nagitive range as well
-#print(nums[-1])
+print(nums[-1])
 
 #Append() insert element last of list 
-#print(nums.append(110))
+print(nums.append(110))
 
 
 #Insert() insert element anywhere If you want Ex: using index (0,1,2,3,4,5,6)
@@ -48,33 +48,34 @@ print(names)
 print(names.pop(2))
 print(names)
 print(nums.pop(2))
-print
 
 #delete values from the list using del commend
 #del nums[1:]
+#print(nums)
 #del nums[:5]
+#print(nums)
 #del nums[3:8]
 #print(nums)
 
 #extend()
 #add multiple values using predefind function below
-#nums.extend([110,120,130])
-#print(nums)
+nums.extend([110,120,130])
+print(nums)
 
 #min()
 #find min value in list using min() predefind function
-#print('this is minmum value of nums list')
-#print(min(nums))
+print('this is minmum value of nums list')
+print(min(nums))
 
 #max()
 #find max value in list using max() predefind function
-#print(max(nums))
-#print(nums)
+print(max(nums))
+print(nums)
 
 #sum()
 #print sum of value in list using sum() function
-#print(sum(nums))
-#print(nums)
+print(sum(nums))
+print(nums)
 
 #sort()
 #print sorted values using sort() function 
