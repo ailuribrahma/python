@@ -16,15 +16,15 @@ names = ['a','b','c','d','e','f']
 print(names)
 
 #assign difference type to one list it will work ex float value and string and int value to assign bellow
-#values = [9.5,'BRAHMA',10]
-#print(values)
+values = [9.5,'BRAHMA',10]
+print(values)
 
 #two lists working together 
  #mixList=[nums,names,values]
  #print(mixList)
 
 #this example is find value using index value
-#print(nums[4])
+print(nums[4])
 
 #if we want print some thing print between the values 
 #print(nums[3:])
@@ -35,11 +35,11 @@ print(names)
 #print(nums[-1])
 
 #Append() insert element last of list 
-#print(nums.append(110))
+print(nums.append(110))
 
 
 #Insert() insert element anywhere If you want Ex: using index (0,1,2,3,4,5,6)
-#print(nums.insert(0,100))
+print(nums.insert(0,100))
 
 #Remove() remove value from list not based on index it’s remove actual value
 #print(nums.remove(100))
