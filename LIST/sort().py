@@ -1,0 +1,7 @@
+my_list = input("Enter numbers separated by spaces: ")
+nums = list(map(int, my_list.split()))
+print("the list of numbers is:", nums)
+nums.sort()
+print("Sorted list is:", nums)
+nums.sort(reverse=True)
+print("Sorted list in descending order is:", nums)
