@@ -135,10 +135,9 @@
                 #How to display list values using user given starting and ending index values
                            #refer LIST/DisplayValuesStartingEndingIndex.py 
 #--------------------------------------------------------------------------------------------------------
-                
+                                  #How to find sum of list values
+                                #refer LIST/sum method programs
 
-
-#How to find sum of list values
 #How to find largest and smallest number in list
 #How to remove duplicates from list
 #How to sort list values in ascending and descending order
