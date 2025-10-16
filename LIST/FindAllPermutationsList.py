@@ -22,7 +22,9 @@ def permutations(nums):
     return result
 
 # Create a list of numbers
-nums = [1, 2]
+user_input = input("Enter numbers separated by spaces: ")
+nums = list(map(int, user_input.split()))
+print("the list of numbers is:", nums)
 
 # Print the original list
 print("Original list:")
