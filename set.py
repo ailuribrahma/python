@@ -8,5 +8,15 @@
 
 
 
-s={22,25,14,18,34,20}
-print(s)
+numbers = []
+while True:
+    user_input = input("Enter a number")
+    if user_input.lower() == 'done':
+        break
+    try:
+        num = float(user_input)
+        numbers.append(num)
+    except ValueError:
+        print("Invalid input. Please enter a valid number.")
+
+print("The list of numbers is:", numbers)
