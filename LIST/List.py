@@ -136,12 +136,24 @@
                            #refer LIST/DisplayValuesStartingEndingIndex.py 
 #--------------------------------------------------------------------------------------------------------
                                   #How to find sum of list values
-                                #refer LIST/sum method programs
+                                  #refer LIST/sum method programs
+#--------------------------------------------------------------------------------------------------------
+                          #How to find largest and smallest number in list
+                             #refer LIST/Max( )Min( )_regular.py
+                             #refer LIST/Max( )_Min( )_UsingLoop.py
+#--------------------------------------------------------------------------------------------------------
+                                  #How to remove duplicates from list
+                         #refer LIST/Duplicate_Values_Remove_Using_Set( ).py
+                         #refer LIST/Duplicate_Values_Remove_Using_loop.py
+                         #refer LIST/Duplicate_Values_Remove.dict.fromKeys( ).py
+#--------------------------------------------------------------------------------------------------------
+                      #How to sort list values in ascending and descending order
+                                 #refer LIST/sort( ).py
+#--------------------------------------------------------------------------------------------------------
+                             #How to find second largest number in list
+                                 #refer LIST/Second_Largest_Number.py
+#--------------------------------------------------------------------------------------------------------
 
-#How to find largest and smallest number in list
-#How to remove duplicates from list
-#How to sort list values in ascending and descending order
-#How to find second largest number in list
 #How to find second smallest number in list
 #How to find even and odd numbers in list
 #How to find common elements from two lists
