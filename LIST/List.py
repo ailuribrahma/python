@@ -165,8 +165,9 @@
                                  #How to find missing numbers in list
                                     #refer LIST/Missing_Numbers_in_List.py
 #--------------------------------------------------------------------------------------------------------
-
-#How to copy one list to another list
+                                  #How to copy one list to another list
+                                    #refer LIST/copy( ).py
+#--------------------------------------------------------------------------------------------------------
 #How to find index of an element in list
 #How to check if an element exists in list
 #How to concatenate two lists
