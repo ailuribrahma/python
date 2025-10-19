@@ -162,8 +162,10 @@
                                 #How to find common elements from two lists
                                 #refer LIST/Common_Elements_Two_Lists.py
 #--------------------------------------------------------------------------------------------------------
+                                 #How to find missing numbers in list
+                                    #refer LIST/Missing_Numbers_in_List.py
+#--------------------------------------------------------------------------------------------------------
 
-#How to find missing numbers in list
 #How to copy one list to another list
 #How to find index of an element in list
 #How to check if an element exists in list
