@@ -147,16 +147,22 @@
                          #refer LIST/Duplicate_Values_Remove_Using_loop.py
                          #refer LIST/Duplicate_Values_Remove.dict.fromKeys( ).py
 #--------------------------------------------------------------------------------------------------------
-                      #How to sort list values in ascending and descending order
-                                 #refer LIST/sort( ).py
+                                #How to sort list values in ascending and descending order
+                                #refer LIST/sort( ).py
 #--------------------------------------------------------------------------------------------------------
-                             #How to find second largest number in list
-                                 #refer LIST/Second_Largest_Number.py
+                                #How to find second largest number in list
+                                #refer LIST/Second_Largest_Number.py
+#--------------------------------------------------------------------------------------------------------
+                                #How to find second smallest number in list
+                                #refer LIST/Second_Smallest_Number.py
+#--------------------------------------------------------------------------------------------------------
+                                #How to find even and odd numbers in list
+                                #refer LIST/Even_Odd_Numbers.py
+#--------------------------------------------------------------------------------------------------------
+                                #How to find common elements from two lists
+                                #refer LIST/Common_Elements_Two_Lists.py
 #--------------------------------------------------------------------------------------------------------
 
-#How to find second smallest number in list
-#How to find even and odd numbers in list
-#How to find common elements from two lists
 #How to find missing numbers in list
 #How to copy one list to another list
 #How to find index of an element in list
