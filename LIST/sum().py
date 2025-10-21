@@ -1,3 +1,3 @@
-my_list = input("Enter numbers separated by spaces: ")
-nums = list(map(int, my_list.split()))
-print("The list of numbers is:", sum(nums))
+list = [10, 20, 30, 40, 50]
+total = sum(list)
+print("Sum of all elements in the list:", total)

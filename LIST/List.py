@@ -162,12 +162,21 @@
                                 #How to find common elements from two lists
                                 #refer LIST/Common_Elements_Two_Lists.py
 #--------------------------------------------------------------------------------------------------------
-
-#How to find missing numbers in list
-#How to copy one list to another list
-#How to find index of an element in list
-#How to check if an element exists in list
-#How to concatenate two lists
+                                 #How to find missing numbers in list
+                                    #refer LIST/Missing_Numbers_in_List.py
+#--------------------------------------------------------------------------------------------------------
+                                  #How to copy one list to another list
+                                    #refer LIST/copy( ).py
+#--------------------------------------------------------------------------------------------------------
+                                #How to find index of an element in list
+                                     #refer LIST/index( ).py
+#--------------------------------------------------------------------------------------------------------
+                                  #How to check if an element exists in list
+                                    #refer LIST/Element_Exists_in_List.py
+#--------------------------------------------------------------------------------------------------------
+                                         #How to concatenate two lists
+                                        #refer LIST/Concatenate_Two_Lists.py
+#--------------------------------------------------------------------------------------------------------
 #How to find length of list
 #How to clear all elements from list
 #How to iterate through a list
