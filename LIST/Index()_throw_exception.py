@@ -1,4 +1,4 @@
-My_List = ['apple', 'banana', 'cherry', 'date', 'fig', 'grape']
+My_List = ['apple', 'date', 'cherry', 'date', 'fig', 'grape']
 element = 'date'
 try:
     index = My_List.index(element)
