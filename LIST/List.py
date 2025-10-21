@@ -168,7 +168,10 @@
                                   #How to copy one list to another list
                                     #refer LIST/copy( ).py
 #--------------------------------------------------------------------------------------------------------
-#How to find index of an element in list
+                                #How to find index of an element in list
+                                     #refer LIST/index( ).py
+#--------------------------------------------------------------------------------------------------------
+
 #How to check if an element exists in list
 #How to concatenate two lists
 #How to find length of list
