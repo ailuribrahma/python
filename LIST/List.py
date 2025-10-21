@@ -171,8 +171,9 @@
                                 #How to find index of an element in list
                                      #refer LIST/index( ).py
 #--------------------------------------------------------------------------------------------------------
-
-#How to check if an element exists in list
+                                  #How to check if an element exists in list
+                                    #refer LIST/Element_Exists_in_List.py
+#--------------------------------------------------------------------------------------------------------
 #How to concatenate two lists
 #How to find length of list
 #How to clear all elements from list
