@@ -177,9 +177,15 @@
                                          #How to concatenate two lists
                                         #refer LIST/Concatenate_Two_Lists.py
 #--------------------------------------------------------------------------------------------------------
-#How to find length of list
-#How to clear all elements from list
-#How to iterate through a list
+                                           #How to find length of list
+                                            #refer LIST/len( ).py
+#--------------------------------------------------------------------------------------------------------
+                                      #How to clear all elements from list
+                                      #refer LIST/clear( ).py 
+#--------------------------------------------------------------------------------------------------------
+                                        #How to iterate through a list
+                                        #refer LIST/Iterate_Through_List.py
+#--------------------------------------------------------------------------------------------------------
 #How to create a list of lists (2D list)
 #How to flatten a list of lists
 #How to find all permutations of a list
