@@ -186,8 +186,12 @@
                                         #How to iterate through a list
                                         #refer LIST/Iterate_Through_List.py
 #--------------------------------------------------------------------------------------------------------
-#How to create a list of lists (2D list)
-#How to flatten a list of lists
+                                      #How to create a list of lists (2D list)
+                                      #refer LIST/List_of_Lists(2D_List).py
+#--------------------------------------------------------------------------------------------------------
+                                       #How to flatten a list of lists
+                                        #refer LIST/Flatten_List_of_Lists.py
+#--------------------------------------------------------------------------------------------------------
 #How to find all permutations of a list
 #How to find all combinations of a list
 #How to find the intersection of two lists
