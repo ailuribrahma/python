@@ -193,9 +193,12 @@
                                         #refer LIST/Flatten_List_of_Lists.py
 #--------------------------------------------------------------------------------------------------------
                                       #How to find all permutations of a list
-                                      #refer LIST/All_Permutations_of_List.py
+                                      #refer LIST/Permutations_of_List.py
 #--------------------------------------------------------------------------------------------------------
-#How to find all combinations of a list
+                                       #How to find all combinations of a list
+                                        #refer LIST/Combinations_of_List.py
+#--------------------------------------------------------------------------------------------------------
+
 #How to find the intersection of two lists
 #How to find the union of two lists
 #How to find the difference between two lists
