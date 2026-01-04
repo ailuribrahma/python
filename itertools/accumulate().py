@@ -13,11 +13,6 @@ print(list(itertools.accumulate(numbers, lambda x,y: x**2 + y**2)))
 #Output: [1, 5, 34, 1172, 1373609, 1886801684917]
 #it performs x^2 + y^2 operation
 
-#Using numpy functions
-print(list(itertools.accumulate(numbers, np.multiply)))
-#Output: [1, 2, 6, 24, 120, 720]
-#it performs multiplication
-print(list(itertools.accumulate(numbers, np.add)))
-#Output: [1, 3, 6, 10, 15, 21]
-#it performs addition   
+new_matrix = np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(new_matrix)
 
