@@ -198,12 +198,18 @@
                                        #How to find all combinations of a list
                                         #refer LIST/Combinations_of_List.py
 #--------------------------------------------------------------------------------------------------------
-
-#How to find the intersection of two lists
-#How to find the union of two lists
-#How to find the difference between two lists
-#How to find the symmetric difference between two lists
+                                   #How to find the intersection of two lists
+                                        #refer LIST/Intersection.py
+#--------------------------------------------------------------------------------------------------------
+                                       #How to find the union of two lists
+                                             #refer LIST/Union.py
+#--------------------------------------------------------------------------------------------------------
+                                    #How to find the difference between two lists
+                                #refer LIST/Finding_Elements_in_One_List_But_Not_The_Other.py
+#--------------------------------------------------------------------------------------------------------
+                          
 #How to find the frequency of elements in a list
+#
 #How to sort a list of tuples based on a specific element
 #How to group elements of a list based on a specific condition
 #How to find the median of a list of numbers
