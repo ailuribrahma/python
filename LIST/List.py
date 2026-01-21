@@ -273,4 +273,29 @@
 #How to find the autocorrelation of a list of numbers
 #How to find the partial autocorrelation of a list of numbers
 #How to find the seasonality of a list of numbers
-#How to find the trend of a list of numbers     
+#How to find the trend of a list of numbers
+# How to find the cyclicity of a list of numbers
+#How to find the noise of a list of numbers
+# How to decompose a list of numbers into its components
+#How to smooth a list of numbers using moving average
+#How to smooth a list of numbers using exponential smoothing
+#How to smooth a list of numbers using Gaussian smoothing
+#How to smooth a list of numbers using Savitzky-Golay filter
+#How to smooth a list of numbers using median filter
+#How to smooth a list of numbers using bilateral filter
+#How to smooth a list of numbers using Wiener filter
+# How to smooth a list of numbers using Kalman filter
+# How to forecast future values of a list of numbers using ARIMA model
+# How to forecast future values of a list of numbers using SARIMA model
+# How to forecast future values of a list of numbers using Prophet model
+# How to forecast future values of a list of numbers using LSTM model
+# How to forecast future values of a list of numbers using GRU model
+# How to forecast future values of a list of numbers using RNN model
+# How to forecast future values of a list of numbers using CNN model
+# How to forecast future values of a list of numbers using Transformer model
+# How to evaluate the accuracy of forecasts using MAE, MSE, RMSE, MAPE
+# How to perform cross-validation for time series data
+# How to handle missing values in a list of numbers
+# How to handle outliers in a list of numbers
+# How to normalize a list of numbers
+# How to standardize a list of numbers     
