@@ -1,0 +1,14 @@
+#using comprehension to create a new list with the square of each element in the original list
+#using normal loop 
+
+#syntax of list comprehension
+#new_list = [expression for item in iterable if condition == True]
+nums = [1, 2, 3, 4, 5]
+squares = []
+for num in nums:
+    squares.append(num ** 2)
+print(squares)
+
+#using list comprehension
+squares_comp = [num ** 2 for num in nums]
+print(squares_comp)

@@ -1,9 +1,16 @@
+# initializing the list
+random_list = ['A', 'A', 'B', 'C', 'B', 'D', 'D', 'A', 'B']
+frequency = {}
 
+# iterating over the list
+for item in random_list:
+   # checking the element in dictionary
+   if item in frequency:
+      # incrementing the counr
+      frequency[item] += 1
+   else:
+      # initializing the count
+      frequency[item] = 1
 
-list = [1, 2, 3]
-list_1 = [6, 7, 8]
-for i in list:
-    for j in list_1:
-        print(i,j)
-    print()
-        
+# printing the frequency
+print(frequency)
